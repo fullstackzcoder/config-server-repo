@@ -10,6 +10,6 @@ spring:
     hibernate:
       ddl-auto: update
   boot:
-    message: Department Service Update
+    message: Department Service Changes
 
 
