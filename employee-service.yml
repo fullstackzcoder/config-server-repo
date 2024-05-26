@@ -9,6 +9,8 @@ spring:
         dialect: org.hibernate.dialect.MySQLDialect
     hibernate:
       ddl-auto: update
+  boot:
+    message: Employee Service
 
 server:
   port: 8081
