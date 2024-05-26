@@ -10,7 +10,7 @@ spring:
     hibernate:
       ddl-auto: update
   boot:
-    message: Employee Service Changes
+    message: Employee Service Changed
 
 server:
   port: 8081
